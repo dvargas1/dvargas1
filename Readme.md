@@ -6,7 +6,7 @@ Cadet at 42Rio
 
 * 🌍  I'm based in Rio de janeiro
 * ✉️  You can contact me at [dvargas@student.42.rio](mailto:dvargas@student.42.rio)
-* 🧠  I'm learning C
+* 🧠 learning C
 
 ### Skills
 
