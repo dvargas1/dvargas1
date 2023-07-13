@@ -1,4 +1,4 @@
-# 💫 About Me:
+# :wave: About Me:
 <br>Hello! I'm a Software Engineering student with a keen interest in DevOps, SRE, and automation. I'm seeking challenging projects to learn and contribute in this exciting field. Let's drive operational excellence together!
 
 
